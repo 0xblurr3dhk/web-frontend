@@ -1,9 +1,9 @@
 {
   "APP_ENV": "development",
   "API_SERVER": {
-    "PLAIN": "https://dev-api.truenil.io/",
-    "USER": "https://dev-api.truenil.io/user/",
-    "AGENT": "https://dev-api.truenil.io/agent/",
-    "DASHBOARD": "https://dev-api.truenil.io/dashboard/"
+    "PLAIN": "https://dev.dihlkhwa663ww.amplifyapp.com/",
+    "USER": "https://dev.dihlkhwa663ww.amplifyapp.com/user/",
+    "AGENT": "https://dev.dihlkhwa663ww.amplifyapp.com/agent/",
+    "DASHBOARD": "https://dev.dihlkhwa663ww.amplifyapp.com/dashboard/"
   }
 }
