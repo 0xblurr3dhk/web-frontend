@@ -1,9 +1,9 @@
 {
   "APP_ENV": "development",
   "API_SERVER": {
-    "PLAIN": "http://backend.harekrishnarai.me/",
-    "USER": "http://backend.harekrishnarai.me/user/",
-    "AGENT": "http://backend.harekrishnarai.me/agent/",
-    "DASHBOARD": "http://backend.harekrishnarai.me/dashboard/"
+    "PLAIN": "https://default.harekrishnarai.me/",
+    "USER": "https://default.harekrishnarai.me/user/",
+    "AGENT": "https://default.harekrishnarai.me/agent/",
+    "DASHBOARD": "https://default.harekrishnarai.me/dashboard/"
   }
 }
