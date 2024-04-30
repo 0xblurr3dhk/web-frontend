@@ -1,9 +1,9 @@
 {
   "APP_ENV": "development",
   "API_SERVER": {
-    "PLAIN": "https://dev.dihlkhwa663ww.amplifyapp.com/",
-    "USER": "https://dev.dihlkhwa663ww.amplifyapp.com/user/",
-    "AGENT": "https://dev.dihlkhwa663ww.amplifyapp.com/agent/",
-    "DASHBOARD": "https://dev.dihlkhwa663ww.amplifyapp.com/dashboard/"
+    "PLAIN": "http://backend.harekrishnarai.me/",
+    "USER": "http://backend.harekrishnarai.me/user/",
+    "AGENT": "http://backend.harekrishnarai.me/agent/",
+    "DASHBOARD": "http://backend.harekrishnarai.me/dashboard/"
   }
 }
